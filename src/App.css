@@ -1,0 +1,13 @@
+.container {
+  margin: 0 auto;
+  width: 470px;
+  border: 1px solid red;
+  background-color: brown;
+}
+
+.display {
+  width: 400px;
+  height: 100px;
+  border-radius: 25px;
+  background-color: black;
+}
